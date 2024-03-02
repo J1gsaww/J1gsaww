@@ -50,6 +50,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J1gsaww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J1gsaww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<img height="200" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"  />
+<img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdragon-dancing-gifs&psig=AOvVaw3dsoBRPlvCYFSWajhaISEw&ust=1709486039752000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCF4PKJ1oQDFQAAAAAdAAAAABAE"  />
 </div>
 
