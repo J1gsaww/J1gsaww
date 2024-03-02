@@ -41,8 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j1gsaww&show_icons=true&locale=en&layout=compact" alt="j1gsaww" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j1gsaww&show_icons=true&locale=en" alt="j1gsaww" /></p>
+<img height="200" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"  />
 
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"  />
-</div>
