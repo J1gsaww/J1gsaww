@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="kaggle logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/adobe-premiere_pro.svg" height="40" alt="premierepro logo"  />
   <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" height="40" alt="Click up"  />
   
 </p>
