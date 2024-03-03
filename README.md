@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Machine Learning, Node js, python, spring boot, etc **
 <br> - 🌐 Let's get in touch with me via jigsaw.dmw.siri@gmail.com
 <br> - 😁 Feel Free to explore my repositories
-<br> - 🥳 I'm currently createating a web-base of my profile that will deploy on AWS cloud
+<br> - 🥳 I'm currently createating a Personal To-Do-List and web-base of my profile that will deploy on AWS cloud
 <br> - 😗 I am confident in my ability to be a project manager due to my experience, having served as a PM for numerous college projects, President of Student Asoociation of Mahidol University since 1st June 2022 until currently 
 <br> - 😔 Actually, I spend most of the time for Student Association of Mahidol University as a president role until 30th of June,
   <br>   👊 but I am still catch up on tech skill development 👊
