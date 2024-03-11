@@ -9,7 +9,7 @@
 
 <h2 align="left">👩‍💻About me</h2>
 <p align="left">
-- 🌱 I’m currently learning **Machine Learning, Node js, python, spring boot, etc **
+- 🌱 I’m currently learning Node js, spring boot, etc **
 <br> - 🌐 Let's get in touch with me via jigsaw.dmw.siri@gmail.com
 <br> - 😁 Feel Free to explore my repositories
 <br> - 🥳 I'm currently createating a Personal To-Do-List and web-base of my profile that will deploy on AWS cloud
