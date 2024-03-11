@@ -1,4 +1,4 @@
-<h1 align="center">🥰 I would love to introduce myself as a cheerful person Jacky 🥰</h1>
+<h1 align="center">🥰 I would love to introduce myself as a cheerful person, Jacky 🥰</h1>
 
 
 <p align="center">😳 My full name is Dhammawat Siribunchawan. Currently, I'm studying at the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems 😳 </p>
