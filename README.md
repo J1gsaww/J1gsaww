@@ -54,7 +54,5 @@
 
 <div align="center">
 <img  height="200" src="https://media.tenor.com/RcX3hUY425kAAAAi/toothless-dragon-toothless.gif" />
-  <img  height="200" src="https://media.tenor.com/RcX3hUY425kAAAAi/toothless-dragon-toothless.gif" />
-  <img  height="200" src="https://media.tenor.com/RcX3hUY425kAAAAi/toothless-dragon-toothless.gif" />
 </div>
 
