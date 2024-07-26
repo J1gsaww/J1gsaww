@@ -19,7 +19,7 @@
 <h2>🌐 Socials:</h2>
 <a href="https://facebook.com/dhammawat.siri.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/jick._.jigsaw"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/Dhammawat%20Siribunchawan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/dhammawat-siribunchawan-53958723a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <h2 align="left"> 💻 Tech Stack:</h2>
