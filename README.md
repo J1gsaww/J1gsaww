@@ -36,7 +36,7 @@
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
 </p>
 
-<h2 align="left">Other Tools</h2>
+<h2 align="left"> 🛠 Other Tools</h2>
 <p align="left">
 <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"></a>
 <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"></a>
