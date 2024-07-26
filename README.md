@@ -44,9 +44,8 @@
 
 <h2 align="left">🔥 Statistics</h2>
 <div align="center">
- <a href="https://github.com/J1gsaww"><img src="https://github-readme-stats.vercel.app/api?username=J1gsaww&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></a><br/>
-<a href="https://github.com/J1gsaww"><img src="https://github-readme-streak-stats.herokuapp.com/?user=J1gsaww&theme=dark&hide_border=false" alt="GitHub Streak Stats"></a><br/>
-<a href="https://github.com/J1gsaww"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1gsaww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></a>
+   <img height="180" src="https://github-readme-stats.vercel.app/api?username=J1gsaww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=J1gsaww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 
 </div>
 
