@@ -1,19 +1,17 @@
 <h1 align="center">🥰 I would love to introduce myself as a cheerful person, Jacky 🥰</h1>
 
 
-<p align="center">😳 My full name is Dhammawat Siribunchawan. Currently, I'm studying at the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems 😳 </p>
+<p align="center">😳 My full name is Dhammawat Siribunchawan. I graduated from the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems 😳 </p>
   
 <p align="center"> 😎
- Moreover, I am interested in digital transformation in any space to bring the future workplace to the current and enhance the working system 😎
+ I'm looking for my first data science job and spending my time studying the data science field while I explore for a position
 </p>
 
 <h2 align="left">👩‍💻About me</h2>
 <p align="left">
-- 🌱 I’m currently learning Node js, spring boot, etc **
 <br> - 🌐 Let's get in touch with me via jigsaw.dmw.siri@gmail.com
 <br> - 😁 Feel Free to explore my repositories
-<br> - 🥳 I'm currently createating a Personal To-Do-List and web-base of my profile that will deploy on AWS cloud
-<br> - 😗 I am confident in my ability to be a project manager due to my experience, having served as a PM for numerous college projects, President of Mahidol Student Asoociation since 1st June 2022 until currently 
+<br> - 😗 I am confident in my ability to be a project manager due to my experience, having served as a PM for numerous college projects, President of Mahidol Student Asoociation since 1st June 2022 until 1st June 2024
 <br> - 😔 Actually, I spend most of the time for Student Association of Mahidol University as a president role until 30th of June,
   <br>   👊 but I am still catch up on tech skill development 👊
 
@@ -50,9 +48,5 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=J1gsaww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=J1gsaww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
-</div>
-
-<div align="center">
-<img  src="https://media.tenor.com/RcX3hUY425kAAAAi/toothless-dragon-toothless.gif" />
 </div>
 
