@@ -4,7 +4,7 @@
 <p align="center">😳 My full name is Dhammawat Siribunchawan. I graduated from the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems 😳 </p>
   
 <p align="center"> 😎
- Currently, I'm working at Humanica as a "People Digital Associate Consultant"
+ Currently, I'm working at Humanica as a "Associate Consultant"
 </p>
 
 <h2 align="left">👩‍💻About me</h2>
