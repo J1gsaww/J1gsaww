@@ -1,11 +1,7 @@
 <h1 align="center"> I would love to introduce myself as a cheerful person, Jacky </h1>
 
 
-<p align="center">😳 My full name is Dhammawat Siribunchawan. I graduated from the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems 😳 </p>
-  
-<p align="center"> 😎
- Currently, I'm working at Humanica as a "Associate Consultant"
-</p>
+<p align="center">My full name is Dhammawat Siribunchawan. I graduated from the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems </p>
 
 <h2 align="left">👩‍💻About me</h2>
 <p align="left">
