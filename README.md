@@ -54,12 +54,9 @@
 <div align= "center">
 
 ![](https://github-readme-stats.shion.dev/api?username=J1gsaww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=J1gsaww&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=J1gsaww&theme=dark&hide_border=false) </br> </br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=J1gsaww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-<h2>🏆 GitHub Trophies</h2>
-<a href="https://github.com/J1gsaww" align="center"><img src="https://github-profile-trophy.vercel.app/?username=J1gsaww&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"></a>
 
 
 
