@@ -47,15 +47,17 @@
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"></a>
 </p>
 
-<h2 align="left">🔥 Statistics</h2>
-<div align="center">
+<h2 align="left">
+🔥 Statistics
+</h2>
+
 ![](https://github-readme-stats.shion.dev/api?username=J1gsaww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=J1gsaww&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=J1gsaww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 <h2>🏆 GitHub Trophies</h2>
 <a href="https://github.com/J1gsaww" align="center"><img src="https://github-profile-trophy.vercel.app/?username=J1gsaww&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"></a>
 
-------------------
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
