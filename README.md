@@ -3,15 +3,6 @@
 
 <p align="center">My full name is Dhammawat Siribunchawan. I graduated from the Faculty of Information and Communications Technology of Mahidol University, specializing in Database Management and Intelligence Systems </p>
 
-<h2 align="left">👩‍💻About me</h2>
-<p align="left">
-<br> - 🌐 Let's get in touch with me via dhammawat.siri@gmail.com
-<br> - 😁 Feel Free to explore my repositories
-<br> - 😗 I am confident in my ability to be a project manager due to my experience, having served as a PM for numerous college projects, President of Mahidol Student Asoociation since 1st June 2022 until 1st June 2024
-<br> - 😔 Actually, I spend most of the time for Student Association of Mahidol University as a president role until 30th of June,
-  <br>   👊 but I am still catch up on tech skill development 👊
-</p>
-
 <h2>🌐 Socials:</h2>
 <a href="https://facebook.com/dhammawat.siri.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/jick._.jigsaw"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
